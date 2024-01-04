@@ -12,5 +12,8 @@
  ---
  
  <h3>🌙・Discord</h3>
+
  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/634072472257298442?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&hideStatus=true)](https://discord.com/users/634072472257298442)
+ <a href="https://discord.com/users/634072472257298442">
+  <img src="https://lanyard.cnrad.dev/api/634072472257298442">
+ </a>
