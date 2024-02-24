@@ -2,7 +2,7 @@
 <h3 align="center">A computer science student from France</h3>
 
 <h3 align="left">My Portfollio:</h3>
-<p align="left"> <a href="https://yannlepigeon.fr">It's Here! </a></p>
+<p align="left"> <a href="https://yannlepigeon.fr">It's Here!</a> <b>(WIP)</b></p>
 
 ---
 
