@@ -13,5 +13,6 @@
  
  <h3 align="center">🌙・Discord</h3>
 
- 
-<a href="https://discord.com/users/634072472257298442" style="align-items:center;"><img src="https://lanyard.cnrad.dev/api/634072472257298442?bg=AA474C&idleMessage=Travaille%20surement%20sur%20quelque%20chose%20d'autre&theme=dark&showDisplayName=true&hideBadges=false&hideSpotify=true&hideDiscrim=false&hideStatus=true" /></a>
+<p align=center>
+<a href="https://discord.com/users/634072472257298442"><img src="https://lanyard.cnrad.dev/api/634072472257298442?bg=AA474C&idleMessage=Travaille%20surement%20sur%20quelque%20chose%20d'autre&theme=dark&showDisplayName=true&hideBadges=false&hideSpotify=true&hideDiscrim=false&hideStatus=true" /></a>
+</p>
